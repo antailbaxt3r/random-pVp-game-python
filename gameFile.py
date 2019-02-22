@@ -229,6 +229,7 @@ def loop4():
 def startGame():
 
     init()
+    
     chooseWarrior()
     print("Player 1 chose " + player1Character)
     print("Player 2 chose " + player2Character)
